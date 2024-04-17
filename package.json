@@ -2,8 +2,8 @@
   "name": "vault-mpc",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Kresus-Labs-Inc/vault-mpc.git",
-  "author": "nikhilk <nikhil.k@netobjex.com>",
+  "repository": "https://github.com/nikhilkumar1612/staking-fixedapy",
+  "author": "nikhilkumar1612 <nikhilkumarpps@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.1.0",
