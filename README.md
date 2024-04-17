@@ -1,1 +1,1 @@
-# Fixed APY Stanking with Lock Multipliers
+# Fixed APY Staking with Lock Multipliers
